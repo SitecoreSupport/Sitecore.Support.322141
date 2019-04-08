@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Sitecore.Pipelines.Upload.Save
-// Assembly: Sitecore.Kernel, Version=11.1.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: F8DE3552-BE39-41F4-8D7E-04A0C08DC796
-// Assembly location: C:\inetpub\wwwroot\sc902.local\bin\Sitecore.Kernel.dll
-
-using Sitecore.Data.Items;
+﻿using Sitecore.Data.Items;
 using Sitecore.Diagnostics;
 using Sitecore.IO;
 using Sitecore.SecurityModel;

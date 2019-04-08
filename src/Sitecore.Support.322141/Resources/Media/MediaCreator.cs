@@ -1,5 +1,4 @@
-﻿// Sitecore.Resources.Media.MediaCreator
-using Sitecore;
+﻿using Sitecore;
 using Sitecore.Configuration;
 using Sitecore.Data;
 using Sitecore.Data.Fields;

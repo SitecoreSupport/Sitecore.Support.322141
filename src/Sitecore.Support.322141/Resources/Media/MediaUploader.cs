@@ -1,5 +1,4 @@
-﻿// Sitecore.Resources.Media.MediaUploader
-using Sitecore.Data;
+﻿using Sitecore.Data;
 using Sitecore.Diagnostics;
 using Sitecore.Globalization;
 using Sitecore.IO;
